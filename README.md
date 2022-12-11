@@ -1,2 +1,2 @@
 # Alura_midi
-Exercício de JavaScript
+Exercício de JavaScript feito para prática.
